@@ -1,0 +1,7 @@
+,Before_Cleaning,After_Cleaning
+number_of_rows_before,620785.0,
+number_of_missing_values_before,8955872.0,
+number_of_duplicates_before,7875.0,
+rows_after,,612910.0
+missing_values_after,,1547356.0
+duplicates_after,,0.0

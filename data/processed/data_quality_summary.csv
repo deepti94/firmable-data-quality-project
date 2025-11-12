@@ -1,0 +1,8 @@
+Metric,Value
+Completeness (%),56.28
+Uniqueness (%),98.73
+Consistency (%),100.0
+Validity (%),100.0
+Timeliness (%),17.71
+Accuracy (%),100.0
+Invalid_Records,8955872.0
